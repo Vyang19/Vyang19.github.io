@@ -2,11 +2,11 @@
 
 ## Summary
 
-U of A Art/ Comp sci Student 
+U of A Industrial Design Engineering Student 
 
 ## Experience
 
-- 3D Modeler in blender and solidworks
+- 3D Modeler in Blender and Solidworks
 - Has Experience with Gimp, Inkscape and Affinity
 - Python, C and Java experience
 
